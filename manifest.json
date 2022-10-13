@@ -3,7 +3,7 @@
     "short_name": "PORTFOLIO",
     "description": "Vaishnavi cha Portfolio. having 1 year of experiance as an front-end developer",
     "orientation": "portrait",
-    "start_url": "/Portfolio",
+    "start_url": "/portfolio",
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
