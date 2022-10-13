@@ -7,6 +7,34 @@
     "background_color": "#F00",
     "theme_color": "#0FF",
     "display": "standalone",
+    "shortcuts": [
+        {
+            "name": "Learn about us",
+            "short_name": "about",
+            "description": " about lorem ipusm",
+            "url": "about.html",
+            "icons": [
+                {
+                    "src": "./assets/assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Get in touch with us",
+            "short_name": "contact",
+            "description": " contact lorem ipusm",
+            "url": "contact.html",
+            "icons": [
+                {
+                    "src": "./assets/assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
     "icons": [
         {
             "src": "./assets/assets/images/SKILLHUB-48-48.png",
